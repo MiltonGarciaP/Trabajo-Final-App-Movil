@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477969683456",
+    "project_id": "appmoviltr",
+    "storage_bucket": "appmoviltr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477969683456:android:871afe518522dd10f0f4e5",
+        "android_client_info": {
+          "package_name": "com.milton.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477969683456-u9t28hahucbqdsjju1tfvc8a00p1bjbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdKcLEW1lv2b_7cAnL6CkQ_u0mg4WwAhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477969683456-u9t28hahucbqdsjju1tfvc8a00p1bjbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
