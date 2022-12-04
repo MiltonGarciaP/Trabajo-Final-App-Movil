@@ -93,7 +93,7 @@ class MainActivity3 : AppCompatActivity() {
     private fun SendConfirm ()
     {
       val user = firebaseAuth.currentUser!!
-        user.sendEmailVerification()
+              user.sendEmailVerification()
             .addOnCompleteListener(this){
                 task ->
                 if(task.isSuccessful)
